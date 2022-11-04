@@ -22,7 +22,7 @@
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=wiflix.zone&sz=%size%",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/Lextii/cloudstream-extensions-Lextii",
+        "repositoryUrl": "https://github.com/Lextii/CS3-Extension-Lextii/tree/master/WiflixProvider",
         "fileSize": 22172,
         "status": 1,
         "language": "fr",
